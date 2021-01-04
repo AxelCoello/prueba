@@ -3,10 +3,10 @@ P {color:red;
     font-family:Courier;
     font-weight:bold;
     font-style:italic;
-    line-height:30px;
-    letter-spacing:5px;
+    line-height:60px;
+    letter-spacing:10px;
     text-decoration:underline;
     text-transform:capitalize;
-    text-align:left;
+    text-align:right;
     text-indent:30px;
 }
