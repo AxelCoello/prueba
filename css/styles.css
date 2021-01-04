@@ -16,9 +16,4 @@ P {color: white;
     font-weight:bold;
     font-style:italic;
     line-height:70px;
-    letter-spacing:10px;
-    text-decoration:underline;
-    text-transform:capitalize;
-    text-align:left;
-    text-indent:10px;
 }
